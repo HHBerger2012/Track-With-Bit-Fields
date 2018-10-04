@@ -1,0 +1,6 @@
+Henrys-MacBook-Pro:berger_hwk3 henryberger$ gcc hwk3.c -Wall -std=c99 -lm
+Henrys-MacBook-Pro:berger_hwk3 henryberger$ ./a.out
+lat:-117.0 long:32.0 alt:100 name:ABLE id:friend cat:airplane reported: 2018/aug/10 13:59:58
+lat:-117.0 long:32.5 alt:200 name:BAKER id:foe cat:ground vehicle reported: 2017/dec/31 23:59:59
+lat:-118.0 long:32.6 alt:0 name:CAT id:neutral cat:ship reported: 2018/sep/01 01:02:03
+lat:-120.0 long:33.0 alt:-10 name:DOWN id:foe cat:ship engaged reported: 2018/jan/31 12:30:00
